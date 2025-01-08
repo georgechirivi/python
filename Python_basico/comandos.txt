@@ -1,0 +1,18 @@
+python3 -m venv .venv
+pip install django
+django-admin startproject my_first_prroyect 
+python manage.py runserver
+python manage.py startapp my_first_app
+    'core',
+    'tailwind'
+    'tailwindtheme',
+]
+
+TAILWIND_APP_NAME = 'tailwindtheme'
+
+INTERNAL_IPS_NAME = [
+    "127.0.0.1",
+
+]
+django==5.1.4
+django-tailwind==3.8.0

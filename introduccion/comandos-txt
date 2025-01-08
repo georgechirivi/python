@@ -1,0 +1,8 @@
+mkdir introduccion
+pip install virtualenv
+escribir si python esta instalado
+pip -V 
+virtualenv env
+cd env/script/activate
+abrir .gitignore ir al pagina gitignore python y copiar archivo
+se crea el archivo requirements.txt

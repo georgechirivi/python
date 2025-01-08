@@ -1,0 +1,38 @@
+Python -m venv venv
+pip install django
+django-admin startproject (nombre de la app)
+pip freeze => mirar las versiones
+pip freeze | grep Django
+extenciones => Python, Python black las de Microsoft
+pip install -r .\requirements.txt
+Python manage.py runserver
+https://docs.djangoproject.com/en/5.1/topics/db/models/
+https://docs.djangoproject.com/en/5.0/topics/install/#installing-official-release
+https://docs.djangoproject.com/en/5.0/glossary/#term-MTV
+$ cd /c/Users/Usuario/Desktop/$ cd /c/Users/Usuario/Desktop/
+pip install virtualenv
+python.exe -m pip install --upgrade pip
+virtualenv env
+cd env cd scripts actívate
+pip install django
+django-admin startproject my_first_proyetc(nombre del proyecto)
+python manage.py startapp my_first_app
+Python manage.py
+Python manage.py runserver
+pip install -r .\requirements.txt
+django-admin startproject core .
+Python manage.py runserver
+Python manage.py migrate
+Python manage.py runserver
+python manage.py createsuperuser
+SECRET_KEY = 'django-insecure-w-==*5^l)i)kpuo$q9n5e#*f7atv67%-8$*0m+zv&ir%3=j6$&'
+python manage.py startapp blog
+//def __str__(self):
+        //return self.title
+Python manage.py Shell
+https://docs.djangoproject.com/en/5.0/ref/models/fields/
+pip install ipython
+https://www.django-rest-framework.org/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+https://jsonlint.com/
+https://www.django-rest-framework.org/

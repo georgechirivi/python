@@ -1,0 +1,3 @@
+https://platzi.com/blog/estructura-organizacion-y-tipos-de-componentes-en-react/
+https://github.com/platzi/curso-react-intro/tree/01-que-es-componente
+npm install

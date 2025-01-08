@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_web_server",
+  "version": "0.0.1",
+  "description": "Proyecto de web server para el curso de NodeJS",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "jorge chirivi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

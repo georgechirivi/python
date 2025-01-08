@@ -1,0 +1,4 @@
+virtualenv env
+cd env cd scripts actívate
+pip install django
+django-admin startproject my_first_proyetc(nombre del proyecto)
