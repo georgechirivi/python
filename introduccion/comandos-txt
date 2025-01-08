@@ -6,3 +6,16 @@ virtualenv env
 cd env/script/activate
 abrir .gitignore ir al pagina gitignore python y copiar archivo
 se crea el archivo requirements.txt
+pip install -r requirements.txt
+django-admin startproject core .
+python manage.py runserver
+python manage.py migrate
+python manage.py runserver
+para ingresar al admin se crea superusuario
+python manage.py createsuperuser
+Username (leave blank to use 'usuario'): usuario
+Email address: admin12345
+Email address: jorge@jorge.com
+Password:admin12345
+Password (again):
+Superuser created successfully.
